@@ -1,4 +1,4 @@
-# ⛽ FuelBrain — Predictive Fuel Cost Optimiser
+#⛽ FuelBrain — Predictive Fuel Cost Optimiser
 ## Built for Alblas International Logistics · NL–Germany corridor
 
 **Status:** 🔨 In progress (Day 1 — environment setup complete)
